@@ -27,4 +27,14 @@ _Italic_
 
 This is a **cat** and this is a _horse_ and other that is **_man_**
 
+- Strike
 
+~~This is a strike~~
+
+- Subscript
+
+H<sup>2</sup>O
+
+- Superscript
+
+a<sup>2</sup>+2ab+b<sup>2</sup>
