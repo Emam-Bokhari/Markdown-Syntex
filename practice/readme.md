@@ -15,3 +15,16 @@ Paragraph
 
 <b>Bold</b>
 
+**Bold**
+
+- Italic
+
+_Italic_
+
+<i>Italic</i>
+
+- Bold and Italic
+
+This is a **cat** and this is a _horse_ and other that is **_man_**
+
+
