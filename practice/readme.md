@@ -63,3 +63,40 @@ Color:`#F3971B`
 - Images
 
 ![Placeholder Image](https://placehold.co/300)
+
+
+- Unorder list
+
+- Apple 
+- Banana
+- Jackfruit
+
+- Nested Unorder list
+
+- Fruit Names
+    - Apple
+        - Fruit Price
+            - Per KG 150tk
+    - Banana
+        - Fruit Price
+    - Jackfruit
+        - Fruit Price
+            - Per peice 200tk
+                - 10 peices 1000tk
+
+- Order list
+
+1. Fruits List
+2. Fruits Price
+
+- Nested Order list
+
+1. Fruits Name
+    1. Banana
+    2. Jackfruit
+        1. Per peice
+            1. 200tk
+                1. 10 Peice
+                    1. 1000tk
+
+
