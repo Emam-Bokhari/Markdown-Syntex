@@ -56,5 +56,10 @@ npm run dev
 `npm run dev`
 Color:`#F3971B`
 
+- Inline link
 
+[Google](https://google.com)
 
+- Images
+
+![Placeholder Image](https://placehold.co/300)
