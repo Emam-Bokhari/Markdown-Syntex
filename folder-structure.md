@@ -1,4 +1,5 @@
 ### 1. Special Characters Drawing List
+
 <table>
   <tr>
     <th>Character</th>
@@ -66,6 +67,7 @@
 
 ### 2. File Tree Representation:
 
+```
 project/
 ├── README.md
 ├── package.json
@@ -135,6 +137,7 @@ project/
     │   └── routes/
     │       └── userRoutes.test.js
     └── jest.config.js
+```
 
 ---
 
@@ -198,4 +201,3 @@ project/
     <td>Scripts to populate initial database data.</td>
   </tr>
 </table>
-
